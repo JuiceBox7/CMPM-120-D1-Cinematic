@@ -1,8 +1,8 @@
-## CMPM 120 D1 Cinematic
+# CMPM 120 D1 Cinematic
 
 School project to create a cinematic with Phaser 3.
 
-# Key Requirements
+## Key Requirements
 
 3+ Scenes: Satisfied. There are a total of 4 scenes, which are the click-to-start screen, the loading screen, the menu, and the teaser non-interactive game scene.
 
@@ -20,19 +20,19 @@ School project to create a cinematic with Phaser 3.
 
 1+ Object Motion Animation. Satisfied. All image assets in the menu screen uses tween animations with easing.
 
-# Credits
+## Credits
 
-Images: 
+### Images: 
 
 All images were created by me using [(pixilart.com)].
 
-Audio: 
+### Audio: 
 
 The sound effect with the logo came from <a href="https://pixabay.com/sound-effects/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=99372">Pixabay</a>
 
 The sound effect when clicking play came from <a href="https://pixabay.com/sound-effects/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=6104">Pixabay</a>
 
-Sources and References Used in Code:
+### Sources and References Used in Code:
 https://gamedevacademy.org/creating-a-preloading-screen-in-phaser-3/ loading screen animation
 https://youtu.be/OS7neDUUhPE menu screen interaction 
 https://phaser.discourse.group/t/sliding-scene-transition/9031 sliding scene transition
