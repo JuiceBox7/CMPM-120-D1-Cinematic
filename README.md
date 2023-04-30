@@ -24,7 +24,7 @@ School project to create a cinematic with Phaser 3.
 
 ### Images: 
 
-All images were created by me using <a href="pixilart.com">Pixilart</a>
+All images were created by me using <a href="https://pixilart.com">Pixilart</a>
 
 ### Audio: 
 
