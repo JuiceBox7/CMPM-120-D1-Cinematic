@@ -8,11 +8,11 @@ School project to create a cinematic with Phaser 3.
 
 2+ Audio Assets: Satisfied. There is a sound effect when the logo appaears in the loading screen scene, and another sound effect for when play is clicked on the menu screen.
 
-2+ Image Assets: Satisfied. The logo, menu screen backgound, game title, and menu are all images I created using <a href="pixilart.com">Pixilart</a>..
+2+ Image Assets: Satisfied. The logo, menu screen backgound, game title, and menu are all images I created using <a href="pixilart.com">Pixilart</a>.
 
 2+ Geometric Shapers: Satisfied. There are 2 rectangles and 2 squares on the teaser "game" screen.
 
-1+ Logotype Text: Satisfied. I created the title in <a href="pixilart.com">Pixilart</a>..
+1+ Logotype Text: Satisfied. I created the title in <a href="pixilart.com">Pixilart</a>.
 
 1+ Multi-line Text Block: Satisfied. The click-to-start scene contains multi-line text.
 
@@ -24,7 +24,7 @@ School project to create a cinematic with Phaser 3.
 
 ### Images: 
 
-All images were created by me using <a href="pixilart.com">Pixilart</a>.
+All images were created by me using <a href="pixilart.com">Pixilart</a>
 
 ### Audio: 
 
